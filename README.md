@@ -10,7 +10,7 @@ Install Python >3.0.0.
 
 Create virtual environment in new folder.
 
-git clone https://github.com/greenl8/JGPT
+git clone https://github.com/greenl8/JGPT.git
 
 pip install -r requirements.txt
 
