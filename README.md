@@ -8,7 +8,9 @@ Installation:
 
 Install Python >3.0.0.
 
-Create virtual environment in new folder.
+Create virtual environment in new folder in project directory.
+
+Activate environment
 
 git clone https://github.com/greenl8/JGPT.git
 
